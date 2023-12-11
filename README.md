@@ -6,6 +6,15 @@ IA MeinKraft Mods, Redos and Extensions
 
 ----------
 
+TODO
+- mapgen - temple of innovanon, backrooms, big ocean, space, frozen north
+- news   - newspaper for new players ?
+- radio  - done, replaced with technic radio. now contains only assets
+- spawn  - track ancestry of players and entities, death/respawn handling
+- mobs
+
+----------
+
 [luacheck badge]: https://github.com/InnovAnon-Inc/iafakery/workflows/luacheck/badge.svg
 [luacheck workflow]: https://github.com/InnovAnon-Inc/iafakery/actions?query=workflow%3Aluacheck
 

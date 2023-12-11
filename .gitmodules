@@ -19,3 +19,6 @@
 [submodule "iasleep"]
 	path = iasleep
 	url = https://github.com/InnovAnon-Inc/iasleep.git
+[submodule "working_villages"]
+	path = working_villages
+	url = https://github.com/InnovAnon-Inc/working_villages.git
