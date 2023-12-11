@@ -1,0 +1,21 @@
+[submodule "iadecor"]
+	path = iadecor
+	url = https://github.com/InnovAnon-Inc/iadecor.git
+[submodule "iafakery"]
+	path = iafakery
+	url = https://github.com/InnovAnon-Inc/iafakery.git
+[submodule "iadiscordia"]
+	path = iadiscordia
+	url = https://github.com/InnovAnon-Inc/iadiscordia.git
+[submodule "iaenhance"]
+	path = iaenhance
+	url = https://github.com/InnovAnon-Inc/iaenhance.git
+[submodule "iapooper"]
+	path = iapooper
+	url = https://github.com/InnovAnon-Inc/iapooper.git
+[submodule "iaskills"]
+	path = iaskills
+	url = https://github.com/InnovAnon-Inc/iaskills.git
+[submodule "iasleep"]
+	path = iasleep
+	url = https://github.com/InnovAnon-Inc/iasleep.git
