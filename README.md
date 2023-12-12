@@ -12,6 +12,7 @@ TODO
 - radio  - done, replaced with technic radio. now contains only assets
 - spawn  - track ancestry of players and entities, death/respawn handling
 - mobs
+- babel  - override translator to obfuscate all text in game based on player's reading comprehension skill
 
 ----------
 
