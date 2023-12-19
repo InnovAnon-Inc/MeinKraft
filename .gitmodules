@@ -22,3 +22,6 @@
 [submodule "working_villages"]
 	path = working_villages
 	url = https://github.com/InnovAnon-Inc/working_villages.git
+[submodule "iaspawn"]
+	path = iaspawn
+	url = https://github.com/InnovAnon-Inc/iaspawn.git
