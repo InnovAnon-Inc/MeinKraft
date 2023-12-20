@@ -30,6 +30,24 @@ TODO
   - data,
   - newspaper stack is derpy
 - iaskills janky, only has dummy logic
+- working_villagers
+  - gender info
+  - lil ones
+  - randomly walking off cliffs
+  - route via climbable
+  - don't route through impassable entities
+  - specific missing jobs
+  - refactor job node/tool/etc that's used for abm placement so it can be used for useful talking messages
+  - cleanup the api, break things into modules, more subdirs
+  - lineage support
+  - more intelligent tool use now that we have tool use
+  - write a dep mgmt sys, compiler, os, kitchen sink
+  - sleep schedules / shifts
+  - HB support
+  - rework wizard to use the new iadiscordia features
+  - combat logic
+  - inventory lists
+  - village info / central planning
 - babel    - override translator to obfuscate all text in game based on player's reading comprehension skill
 - mobs
 
