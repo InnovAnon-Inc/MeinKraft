@@ -7,35 +7,96 @@ IA MeinKraft Mods, Redos and Extensions
 ----------
 
 TODO
-- mapgen - temple of innovanon, backrooms (core), mantle (lava ocean), big ocean (big and deep and creepy), space, frozen north/south
-- news   - newspaper for new players ?
-- radio  - done, replaced with technic radio. now contains only assets
-- spawn  - track ancestry of players and entities, death/respawn handling
+- ialazor  - needs a complete rewrite
+- iaspawn 
+  - track ancestry of players and entities,
+  - death/respawn handling
+  - need lineage-tracking, dummy players
+  - players can never leave (ie simulate staying logged in even when logged out)
+    => helpful messages: you soiled youself n times while you were logged out
+- iamapgen
+  - temple of innovanon
+  - backrooms (core)
+  - mantle (lava ocean),
+  - big ocean (big and deep and creepy),
+  - space,
+  - frozen north/south
+- iaroko   - dummy logic is stubbed out. now the mod needs to be written
+- shakable/throwable bee in a jar
+  - spiders
+  - can use jar on player => player shits bees/spiders
+- ianews 
+  - more papers,
+  - data,
+  - newspaper stack is derpy
+- iaskills janky, only has dummy logic
+- babel    - override translator to obfuscate all text in game based on player's reading comprehension skill
 - mobs
-- babel  - override translator to obfuscate all text in game based on player's reading comprehension skill
+
+
+
+
+
+- iadiscordia spells, etc.
+  - need to finish randomization logic
+  - spells:
+  - lightning
+  - meteor
+  - grant perms
+  - slash commands
+  - more engraving magic
+  - hp drain
+  - mana drain
+  - hunger
+  - sleep
+  - shit yourself
+  - shit storm
+  - poison
+  - suffocate
+  - weakness ? / gravity
+  - avalanche / collapse
+  - explosion
+  - combust
+  - missile
+  - teleport
+  - float / fly
+  - invisibility / shrink
+  - clip ?
+  - invert crosses
+  - technic power (generates power)
+  - flood (water / lava)
+  - spawn tree / flora
+  - freeze water
+  - decay (stone->gravel->sand, plants->dry)
+  - kill player by name
+  - set time of day
+  - black hole
+  - transforming liquid add
+  - override day night ratio
+  - thanos (kill half the players / entities)
+  - light/extinguish all candles in area
+
+- apartments and other schematics
 
 - hardcore farming
 - rip assets from other mods
 - rip .mts from other mods
-- apartments
-- players can never leave (ie simulate staying logged in even when logged out)
-  => helpful messages: you soiled youself n times while you were logged out
+- harder farming:
+  - need crop rotation / soil depletion
+  - need flowing water (ie not stagnant)
+  - aquaponics ?
+  - aqua farming ?
+  - fishing ?
 
-roko's basilisk - super cool end game item that tracks who helped to craft it
-
-lodestone
-
-shakable/throwable bee in a jar
-
-harder farming:
-- need crop rotation / soil depletion
-- need flowing water (ie not stagnant)
-- aquaponics ?
-- aqua farming ?
-- fishing ?
-
-everywhere is space
-on spawn, create ship wreck / explosion
+## End Game Scenarios
+- space wars
+- magickal dark aeon
+- alchemical transmutation
+- roko
+- thanos
+- cosmic horror
+- grey goo
+- pestilence / plague
 
 ----------
 

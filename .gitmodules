@@ -25,3 +25,9 @@
 [submodule "iaspawn"]
 	path = iaspawn
 	url = https://github.com/InnovAnon-Inc/iaspawn.git
+[submodule "ianews"]
+	path = ianews
+	url = https://github.com/InnovAnon-Inc/ianews.git
+[submodule "iaroko"]
+	path = iaroko
+	url = https://github.com/InnovAnon-Inc/iaroko.git
