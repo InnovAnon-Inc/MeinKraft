@@ -31,3 +31,15 @@
 [submodule "iaroko"]
 	path = iaroko
 	url = https://github.com/InnovAnon-Inc/iaroko.git
+[submodule "iagauntlet"]
+	path = iagauntlet
+	url = https://github.com/InnovAnon-Inc/iagauntlet.git
+[submodule "iamedusa"]
+	path = iamedusa
+	url = https://github.com/InnovAnon-Inc/iamedusa.git
+[submodule "ialazor"]
+	path = ialazor
+	url = https://github.com/InnovAnon-Inc/ialazor.git
+[submodule "iaflyingships"]
+	path = iaflyingships
+	url = https://github.com/InnovAnon-Inc/iaflyingships.git
