@@ -43,3 +43,6 @@
 [submodule "iaflyingships"]
 	path = iaflyingships
 	url = https://github.com/InnovAnon-Inc/iaflyingships.git
+[submodule "iadefault"]
+	path = iadefault
+	url = https://github.com/InnovAnon-Inc/iadefault.git
