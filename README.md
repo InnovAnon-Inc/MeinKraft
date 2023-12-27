@@ -33,6 +33,8 @@ IA MeinKraft Mods, Redos and Extensions
 
 ## TODO
 
+- add flags overlayed with images like the ianews
+
 - add submodules
   - iamapgen
 
